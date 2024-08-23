@@ -3,14 +3,14 @@
     "node": "^22.6.0"
   },
   "name": "aula",
-  "description": "",
+  "description": "Repositório criado para as aulas teóricas e atividades práticas da disciplina de Construção de Frontend.",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": []
 }
